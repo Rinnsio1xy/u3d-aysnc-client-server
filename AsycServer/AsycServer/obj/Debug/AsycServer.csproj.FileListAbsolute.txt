@@ -1,0 +1,13 @@
+D:\visual studio 2013\AsycServer\AsycServer\bin\Debug\AsycServer.exe.config
+D:\visual studio 2013\AsycServer\AsycServer\bin\Debug\AsycServer.exe
+D:\visual studio 2013\AsycServer\AsycServer\bin\Debug\AsycServer.pdb
+D:\visual studio 2013\AsycServer\AsycServer\obj\Debug\AsycServer.csprojResolveAssemblyReference.cache
+D:\visual studio 2013\AsycServer\AsycServer\obj\Debug\AsycServer.exe
+D:\visual studio 2013\AsycServer\AsycServer\obj\Debug\AsycServer.pdb
+D:\u3dsyctest\AsycServer-master\AsycServer\bin\Debug\AsycServer.exe.config
+D:\u3dsyctest\AsycServer-master\AsycServer\bin\Debug\AsycServer.exe
+D:\u3dsyctest\AsycServer-master\AsycServer\bin\Debug\AsycServer.pdb
+D:\u3dsyctest\AsycServer-master\AsycServer\obj\Debug\AsycServer.csproj.CoreCompileInputs.cache
+D:\u3dsyctest\AsycServer-master\AsycServer\obj\Debug\AsycServer.exe
+D:\u3dsyctest\AsycServer-master\AsycServer\obj\Debug\AsycServer.pdb
+D:\u3dsyctest\AsycServer-master\AsycServer\obj\Debug\AsycServer.csprojResolveAssemblyReference.cache
